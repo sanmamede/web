@@ -6,9 +6,9 @@
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#3d8eb9",
+        "primaryColor": "#41a85f",
         "secondaryColor": "#7c706b",
-        "successColor": "#553982",
+        "successColor": "#2b0680",
         "infoColor": "#7e9b9f",
         "warningColor": "#f3c649",
         "dangerColor": "#f3c649",
@@ -137,15 +137,17 @@
           "_anchor": "header1-1",
           "_params": {
             "parallax": true,
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "showArrow": false,
             "bgImage": "@PROJECT_PATH@/assets/images/img-20160322-wa0003-2000x2666.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "width": 1280,
+              "height": 720,
+              "url": "https://www.youtube.com/embed/pszDOyj7Wzk?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
-            "bgVideoRadio": false,
+            "bgVideoRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#000",
@@ -156,7 +158,7 @@
           },
           "title": "VII SAN MAMEDE DESAFÍO SOLIDARIO",
           "text": "Benvidos un ano máis a unha nova edición deste Desafío Solidario",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"VII DESAFÍO SOLIDARIO.html\" data-toolbar=\"-mbrBtnMove\">INSCRICIÓN SOLIDARIA</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"https://www.youtube.com\" data-toolbar=\"-mbrBtnMove\">VIDEO PROMOCIONAL</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"VII DESAFÍO SOLIDARIO.html\" data-toolbar=\"-mbrBtnMove\">INSCRICIÓN SOLIDARIA</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://www.youtube.com/watch?v=pszDOyj7Wzk\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VIDEO PROMOCIONAL</a>   "
         },
         {
           "_name": "footer1",
