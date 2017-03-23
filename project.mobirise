@@ -149,7 +149,7 @@
             },
             "bgVideoRadio": true,
             "overlay": false,
-            "overlayOpacity": 0.5,
+            "overlayOpacity": "1",
             "overlayColor": "#000",
             "contentAlign": "center",
             "showTitle": true,
@@ -158,7 +158,7 @@
           },
           "title": "VII SAN MAMEDE DESAFÍO SOLIDARIO",
           "text": "Benvidos un ano máis a unha nova edición deste Desafío Solidario",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"VII DESAFÍO SOLIDARIO.html\" data-toolbar=\"-mbrBtnMove\">INSCRICIÓN SOLIDARIA</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://www.youtube.com/watch?v=pszDOyj7Wzk\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VIDEO PROMOCIONAL</a>   "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://championchipnorte.com/evento\" data-toolbar=\"-mbrBtnMove\">INSCRICIÓN SOLIDARIA</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://www.youtube.com/watch?v=pszDOyj7Wzk\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VIDEO PROMOCIONAL</a>   "
         },
         {
           "_name": "footer1",
