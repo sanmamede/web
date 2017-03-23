@@ -156,7 +156,7 @@
           },
           "title": "VII SAN MAMEDE DESAFÍO SOLIDARIO",
           "text": "Benvidos un ano máis a nova edición deste Desafío Solidario",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"formulario inscrición.html\" data-toolbar=\"-mbrBtnMove\">INSCRICIÓN SOLIDARIA</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">VIDEO PROMOCIONAL</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"VII DESAFÍO SOLIDARIO.html\" data-toolbar=\"-mbrBtnMove\">INSCRICIÓN SOLIDARIA</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">VIDEO PROMOCIONAL</a> "
         },
         {
           "_name": "footer1",
@@ -226,7 +226,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#3d8eb9!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
