@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Tracks.html",
+    "currentPage": "Serra do San Mamede.html",
     "name": "WEB D.S",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 67,
+    "uniqCompNum": 69,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": ""
@@ -143,6 +143,125 @@
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">San Mamede Desafío Solidario</a>",
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Inicio</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Serra do San Mamede.html\">A Serra do San Mamede</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Fin solidario.html\">O Fin solidario</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"O Proxecto.html\" aria-expanded=\"true\">O Proxecto</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"A Carreira.html\">A Carreira por montaña</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"A Andaina.html\">A Andaina</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"O Regulamento.html\" aria-expanded=\"false\">O Regulamento</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Regulamento FGM.html\">Regulamento FGM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Perfís de Elevación.html\">Perfís de elevación</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Percorridos.html\">Percorridos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Patrocinadores.html\">Patrocinadores</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Colaboradores.html\">Colaboradores</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contacto.html\" aria-expanded=\"false\">Contacto</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Tracks.html\">Tracks</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-1w",
+          "_params": {
+            "columnsColor": "#2e2e2e",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "3",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/informacin-donacin-desafo-solidario-2016-600x848.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "INFORME DONACIÓN DESAFÍO SOLIDARIO 2016",
+          "subtitle1": "VI SAN MAMEDE DESAFÍO SOLIDARIO",
+          "caption1": "Informámosvos que cos 641€ doados, grazas a todas as persoas participantes do Desafío Solidario 2016, durante este ano puidemos axudar a 10 familias a pagar os seus recibos de subministracións<br>Pagáronse 3 recibos de auga, 6 de luz e comprouse 1 bombona de butano<br>Evitouse que a tres familias lles córten a subministración <br>. eléctrica",
+          "button1": "<a data-app-btn=\"true\" href=\"https://drive.google.com/file/d/0BxLu_W4G7o-QUXlsbEhyQ3k4TkE/view\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Descargar PDF</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/cv-vertical-maceda-600x645.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "PRESTACIÓNS  A PERSOAS EN SITUACIÓN DE ESPECIAL VULNERABILIDADE",
+          "subtitle2": "Asamblea Comarcal de Cruz Vermella",
+          "caption2": "Persoas afectadas pola crise socioeconómica en xeral (ingresos menores a 500€/mes) en particular:<br>Maiores con Responsabilidades familiares (maiores de 65 con fillos e netos a cargo máis de 2 membros na unidade familiar)<br>Persoas de familias con todos membros en paro (ingresos menores a 500€/mes)<br>Parados longa duración máis de 1 ano en desemprego&nbsp;<br>Persoas sen fogar<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://drive.google.com/file/d/0BxLu_W4G7o-QbDJ5UmZNRjZtNzQ/view\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Descargar PDF</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo1-600x562.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "ASOCIACIÓN CULTURAL E DEPORTIVA VIA VIII",
+          "subtitle3": "",
+          "caption3": "Dende esta entidade intentamos aportar un noso pequeno gran de area para colaborar solidariamente con diferentes proxectos ou programas ben promovidos dende a Asamblea Comarcal de Cruz Vermella de Maceda, ou ben &nbsp;promovidos por outras entidades ou &nbsp; organizacións sen fins lucrativos que persigan a solidariedade como obxectivo principal",
+          "button3": "<a data-app-btn=\"true\" href=\"https://drive.google.com/file/d/0BxLu_W4G7o-QWFhmQTVYU1VnSm8/view\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Descargar PDF</a>",
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            }
+          }
         }
       ]
     },
@@ -153,23 +272,6 @@
         "order": 2
       },
       "components": [
-        {
-          "_name": "footer1",
-          "_anchor": "footer1-5",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": ""
-        },
         {
           "_styles": {
             ".hide-buttons .nav-btn": {
@@ -281,7 +383,7 @@
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/pict0035-2000x1500.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -310,7 +412,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools <a href=\"http://google.com/\">available</a> today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
+          "text": "<p>.</p>"
         }
       ]
     },
@@ -1250,59 +1352,45 @@
           ],
           "_name": "slider3",
           "_params": {
-            "autoplay": true,
+            "autoplay": false,
             "paddingTop": 3,
             "paddingBottom": 3,
             "timeout": 5,
             "slides": [
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/perfil-carreira-d-2000x604.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
-                "contentAlign": "right",
+                "contentAlign": "center",
                 "showTitle": true,
-                "title": "Perfil Carreira",
+                "title": "PERFIL CARREIRA",
                 "showText": true,
-                "text": "Aviso: &nbsp;esta proba supón un esforzo físico<br>importante para poder terminala nunhas<br>condicións de saúde óptimas, prégase a tódol@s<br>participantes sexa coñecedores das súas limitacións",
+                "text": "A proba de carreira de montaña ten unha distancia de 21 km., o seu punto máis alto é de 1613 metros e o máís baixo de 656 metros, cuns desniveis que chegan ata o 43%<br>Os participantes deberán ser conscientes que este tipo de evento deportivo está considerado como de Alto Risco<br>",
                 "showButtons": false,
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": false,
-                "image": "@THEME_PATH@/components/_images/slider/bridge.jpg",
-                "playVideo": true,
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/perfil-andaina-d-2000x578.jpg",
+                "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
                 "contentAlign": "left",
                 "showTitle": true,
-                "title": "BACKGROUND VIDEO",
+                "title": "PERFIL DA ANDAINA",
                 "showText": true,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "text": "Percorrido duns 12 km aproximadamente de dificultade media que discorre entre os pobos de Castro de Escuadro e A Teixeira e ofrece unha beleza paisaxística sen igual&nbsp;",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@THEME_PATH@/components/_images/slider/sparklers.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "contentAlign": "right",
-                "showTitle": true,
-                "title": "BOOTSTRAP SLIDER",
-                "showText": true,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ],
             "fullScreen": false,
             "bgColor": "#fff",
             "showBullets": true
           },
-          "_anchor": "slider3-16",
+          "_anchor": "slider3-1v",
           "articleLayout": false
         }
       ]
@@ -1836,6 +1924,11 @@
             "Theme"
           ],
           "_name": "slider3",
+          "_styles": {
+            "P": {
+              "color": "#fac51c"
+            }
+          },
           "_params": {
             "autoplay": false,
             "paddingTop": 3,
@@ -1904,12 +1997,7 @@
             "showBullets": true
           },
           "_anchor": "slider3-1t",
-          "articleLayout": false,
-          "_styles": {
-            "P": {
-              "color": "#fac51c"
-            }
-          }
+          "articleLayout": false
         }
       ]
     },

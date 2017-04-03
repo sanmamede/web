@@ -478,6 +478,9 @@ h6,
 #menu-4 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#features1-1w .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #2e2e2e;
+}
 
 #menu-6 .hide-buttons .nav-btn {
   display: none !important;
