@@ -628,14 +628,14 @@ h6,
 #menu-g .link,
 #menu-g .dropdown-item {
   color: #ffffff;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Lato', sans-serif;
 }
 #menu-g .link {
-  font-size: 0.8rem;
+  font-size: 0.65rem;
 }
 #menu-g .dropdown-item,
 #menu-g .nav-dropdown-sm .link {
-  font-size: 0.866rem;
+  font-size: 0.704rem;
 }
 #menu-g .link:hover,
 #menu-g .dropdown-item:hover,
