@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Contacto.html",
     "name": "WEB D.S",
     "theme": {
       "name": "mobirise3",
@@ -288,14 +288,14 @@
             },
             ".link, .dropdown-item": {
               "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "font-family": "'Roboto', sans-serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-family": "'Lato', sans-serif"
             },
             ".link": {
-              "font-size": "0.8rem"
+              "font-size": "0.65rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.866rem"
+              "font-size": "0.704rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -390,7 +390,7 @@
             "showTitle": true,
             "showSubTitle": true
           },
-          "title": "CONTACTO COA ORGANIZACIÓN",
+          "title": "CONTACTA COA ORGANIZACIÓN",
           "subtitle": "Intenteramos resolver as túas dúbidas a maior brevidade que nos sexa posible, gracias pola túa atención",
           "form": {
             "action": "desafiosolidariosanmamede@gmail.com",

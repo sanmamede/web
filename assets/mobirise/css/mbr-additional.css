@@ -499,14 +499,14 @@ h6,
 #menu-a .link,
 #menu-a .dropdown-item {
   color: #ffffff;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Lato', sans-serif;
 }
 #menu-a .link {
-  font-size: 0.8rem;
+  font-size: 0.65rem;
 }
 #menu-a .dropdown-item,
 #menu-a .nav-dropdown-sm .link {
-  font-size: 0.866rem;
+  font-size: 0.704rem;
 }
 #menu-a .link:hover,
 #menu-a .dropdown-item:hover,
