@@ -901,14 +901,14 @@ h6,
 #menu-r .link,
 #menu-r .dropdown-item {
   color: #ffffff;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Lato', sans-serif;
 }
 #menu-r .link {
-  font-size: 0.8rem;
+  font-size: 0.65rem;
 }
 #menu-r .dropdown-item,
 #menu-r .nav-dropdown-sm .link {
-  font-size: 0.866rem;
+  font-size: 0.704rem;
 }
 #menu-r .link:hover,
 #menu-r .dropdown-item:hover,
