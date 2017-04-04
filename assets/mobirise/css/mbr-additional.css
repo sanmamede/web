@@ -2,6 +2,7 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
 
 
 
@@ -834,14 +835,14 @@ h6,
 #menu-m .link,
 #menu-m .dropdown-item {
   color: #ffffff;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Lato', sans-serif;
 }
 #menu-m .link {
-  font-size: 0.8rem;
+  font-size: 0.65rem;
 }
 #menu-m .dropdown-item,
 #menu-m .nav-dropdown-sm .link {
-  font-size: 0.866rem;
+  font-size: 0.704rem;
 }
 #menu-m .link:hover,
 #menu-m .dropdown-item:hover,
@@ -970,14 +971,14 @@ h6,
 #menu-2 .link,
 #menu-2 .dropdown-item {
   color: #ffffff;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Lato', sans-serif;
 }
 #menu-2 .link {
-  font-size: 0.8rem;
+  font-size: 0.65rem;
 }
 #menu-2 .dropdown-item,
 #menu-2 .nav-dropdown-sm .link {
-  font-size: 0.866rem;
+  font-size: 0.704rem;
 }
 #menu-2 .link:hover,
 #menu-2 .dropdown-item:hover,
@@ -1235,14 +1236,14 @@ h6,
 #menu-2b .link,
 #menu-2b .dropdown-item {
   color: #ffffff;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Lato', sans-serif;
 }
 #menu-2b .link {
-  font-size: 0.8rem;
+  font-size: 0.65rem;
 }
 #menu-2b .dropdown-item,
 #menu-2b .nav-dropdown-sm .link {
-  font-size: 0.866rem;
+  font-size: 0.704rem;
 }
 #menu-2b .link:hover,
 #menu-2b .dropdown-item:hover,
