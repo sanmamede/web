@@ -68,14 +68,14 @@
             },
             ".link, .dropdown-item": {
               "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "font-family": "'Roboto', sans-serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-family": "'Lato', sans-serif"
             },
             ".link": {
-              "font-size": "0.8rem"
+              "font-size": "0.65rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.866rem"
+              "font-size": "0.704rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -224,7 +224,7 @@
           },
           "title3": "ASOCIACIÓN CULTURAL E DEPORTIVA VIA VIII",
           "subtitle3": "",
-          "caption3": "Dende esta entidade intentamos aportar un noso pequeno gran de area colaborando solidariamente con diferentes proxectos ou programas ben promovidos dende a Asamblea Comarcal de Cruz Vermella de Maceda, ou ben &nbsp;promovidos por outras entidades ou &nbsp; organizacións sen fins lucrativos que teñan a solidariedade como obxectivo principal",
+          "caption3": "Dende esta entidade intentamos aportar o noso pequeno gran de area colaborando solidariamente con diferentes proxectos ou programas ben promovidos dende a Asamblea Comarcal de Cruz Vermella de Maceda, ou ben &nbsp;promovidos por outras entidades ou &nbsp; organizacións sen fins lucrativos que teñan a solidariedade como obxectivo principal",
           "button3": "<a data-app-btn=\"true\" href=\"https://drive.google.com/file/d/0BxLu_W4G7o-QWFhmQTVYU1VnSm8/view\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Descargar PDF</a>",
           "media4": {
             "image": {
@@ -747,7 +747,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<div><br></div><div><b>CARREIRA 9:00 h</b></div><div><b>Centro Social de Castro de Escuadro</b></div><div><br></div><div>A proba consiste nun percorrido de aprox 21 km pola Serra de San Mamede con saída e chegada o pobo de Castro de Escuadro, pasando polo pobo da Teixeira para máis tarde acadar o cumio de San Mamede na Ermida do Santo a 1.613 mts para logo baixar novamente a Castro de Escuadro.</div><div><br></div><div>Dito percorrido estará asistido por voluntarios, ademais estará sinalizado con balizas de cor branca-vermella durante todo o traxecto. Haberá puntos de avituallamento nos ptos km: &nbsp;6 (líquido), 7.5 (líquido e sólido), 10 (líquido e sólido) e 15 (líquido e sólido) e 19 (liquido).</div><div><br></div><div>Nesta modalidade a diferencia da modalidade \"ANDAINA\", tódolos participantes deberán completar os 21 km dos que consta o percorrido.</div><div><br></div><div>Tódolos participantes na modalidade CARREIRA deberán levar permanentemente o dorsal colocado nun lugar ben visible.</div><div><br></div><div><b>A organización prevé uns tempos de paso e corte en determinados controis e un tempo máximo para a CARREIRA DE MONTAÑA:</b></div><div><b> KM. 7 ( 1 h. 5o min.) e KM 14 ( 3h. 15 min.) e un tempo máximo de 5 horas para completar a totalidade do percorrido.</b></div><div><b><br></b></div><div><b>En caso de que as condicións climatolóxicas sexan moi adversas, a organización habilitará un percorrido alternativo para garantir a seguridade dos participantes no evento.</b></div><div><b><br></b></div><div><b>Os corredores deberán ter as condicións físicas requeridas para a distancia e a dureza do itinerario. Levarán a indumentaria e o calzado axeitados para a modalidade deportiva na que se inscriban.</b></div><div><b><br></b></div><div><b>PREMIOS</b></div><div><b><br></b></div><div>Entregaranse trofeos conmemorativos os tres primeiros/as clasificados/as das seguintes categorías:</div><div>- Absoluta Masculino e Femenina: os 3 primeiros/as clasificados/as na proba.</div><div>- Mellor atleta local.</div><div>- O participante ou a participante mais veterán na proba.</div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\">- A proba conta cun “premio especial” para o corredor/a que chegue primeiro o Alto de San Mamede.</span></div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\">Na modalidade de CARREIRA DE MONTAÑA, a efectos da Copa Galega de Carreiras por Montaña, os participantes estarán ao disposto ou recollido no regulamento de competición das carreiras por Montaña da FEDERACIÓN GALEGA DE MONTAÑISMO.</span></div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Os participantes que se inscriban en calquera das probas CARREIRA e ANDAINA non poderán tomar a saída acompañados de animais.</b></span></div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b><br></b></span></div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\">Un ano mais este evento ten un lado solidario que nos define, este ano decidimos aportar o 20 % da recaudación das inscricicions o seguinte proxecto promovido pola ASAMBLEA COMARCAL DE CRUZ VERMELLA DE MACEDA: </span></div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Programa: Loita contra a pobreza e a exclusión</b></span></div><div><b style=\"font-size: 1.07rem; line-height: 1.5;\">Colectivo: Persoas afectadas pola crisis socioeconómica en xeral (ingresos menores a 500€/mes) en particular.</b></div><div><br></div><div><b><br></b></div><div><br><div><br></div><div><br></div></div>"
+          "text": "<div><br></div><div><b>CARREIRA 9:00 h</b></div><div><b>Centro Social de Castro de Escuadro</b></div><div><br></div><div>A proba consiste nun percorrido de aprox 21 km pola Serra de San Mamede con saída e chegada o pobo de Castro de Escuadro, pasando polo pobo da Teixeira para máis tarde acadar o cumio de San Mamede na Ermida do Santo a 1.613 mts para logo baixar novamente a Castro de Escuadro.</div><div><br></div><div>Dito percorrido estará asistido por voluntarios, ademais estará sinalizado con balizas de cor branca-vermella durante todo o traxecto. Haberá puntos de avituallamento nos ptos km: &nbsp;6 (líquido), 7.5 (líquido e sólido), 10 (líquido e sólido) e 15 (líquido e sólido) e 19 (liquido).</div><div><br></div><div>Nesta modalidade a diferencia da modalidade \"ANDAINA\", tódolos participantes deberán completar os 21 km dos que consta o percorrido.</div><div><br></div><div>Tódolos participantes na modalidade CARREIRA deberán levar permanentemente o dorsal colocado nun lugar ben visible.</div><div><br></div><div><b>A organización prevé uns tempos de paso e corte en determinados controis e un tempo máximo para a CARREIRA DE MONTAÑA:</b></div><div><b> KM. 7 ( 1 h. 5o min.) e KM 14 ( 3h. 15 min.) e un tempo máximo de 5 horas para completar a totalidade do percorrido.</b></div><div><b><br></b></div><div><b>En caso de que as condicións climatolóxicas sexan moi adversas, a organización habilitará un percorrido alternativo para garantir a seguridade dos participantes no evento.</b></div><div><b><br></b></div><div><b>Os corredores deberán ter as condicións físicas requeridas para a distancia e a dureza do itinerario. Levarán a indumentaria e o calzado axeitados para a modalidade deportiva na que se inscriban.</b></div><div><b><br></b></div><div><b>PREMIOS</b></div><div><b><br></b></div><div>Entregaranse trofeos conmemorativos os tres primeiros/as clasificados/as das seguintes categorías:</div><div>- Absoluta Masculino e Femenina: os 3 primeiros/as clasificados/as na proba.</div><div>- Mellor atleta local.</div><div>- O participante ou a participante mais veterán na proba.</div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\">- A proba conta cun “premio especial” para o corredor/a que chegue primeiro o Alto de San Mamede.</span></div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\">Na modalidade de CARREIRA DE MONTAÑA, a efectos da Copa Galega de Carreiras por Montaña, os participantes estarán ao disposto ou recollido no regulamento de competición das carreiras por Montaña da FEDERACIÓN GALEGA DE MONTAÑISMO.</span></div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Os participantes que se inscriban en calquera das probas CARREIRA e ANDAINA non poderán tomar a saída acompañados de animais.</b></span></div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b><br></b></span></div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\">Un ano mais este evento ten un lado solidario que nos define, este ano decidimos aportar o 20 % da recaudación das inscricicions o seguinte proxecto promovido pola ASAMBLEA COMARCAL DE CRUZ VERMELLA DE MACEDA: </span></div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Programa: Loita contra a pobreza e a exclusión</b></span></div><div><b style=\"font-size: 1.07rem; line-height: 1.5;\">Colectivo: Persoas afectadas pola crisis socioeconómica en xeral (ingresos menores a 500€/mes) en particular.</b></div><div><b style=\"font-size: 1.07rem; line-height: 1.5;\"><br></b></div><div><b style=\"font-size: 1.07rem; line-height: 1.5;\">RETIRADA DE DORSAIS</b></div><div><b style=\"font-size: 1.07rem; line-height: 1.5;\"><br></b></div><div>Poderanse retirar o día anterior <b>sábado 20 de Maio de 18:00 a 21:00 horas no Castelo de Maceda</b>, ou <b>o mesmo día da proba ata media hora antes do inicio da proba.</b> Para a retirada de dorsais será <b>obrigatorio presentar o DNI ou pasaporte e no caso de atletas federados licencia federativa en vigor do participante inscrito na proba,</b>&nbsp;podendo retirarse por unha persoa distinta ó destinatario, facéndose esta responsable, eximindo de toda responsabilidade á organización.</div><div>No caso do atletas federados as licencias federativas serán devoltas pola organización ó interesado unha vez rematada a proba.</div><div><br></div><div><br></div><div><br></div><div><b><br></b></div><div><br><div><br></div><div><br></div></div>"
         }
       ]
     },
@@ -774,14 +774,14 @@
             },
             ".link, .dropdown-item": {
               "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "font-family": "'Roboto', sans-serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-family": "'Lato', sans-serif"
             },
             ".link": {
-              "font-size": "0.8rem"
+              "font-size": "0.65rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.866rem"
+              "font-size": "0.704rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -900,7 +900,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><b>ANDAINA&nbsp;</b><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>9:15 h</b>&nbsp;</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Centro Social de Castro de Escuadro</b></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b><br></b></span></p><div>A proba consiste nun percorrido de aprox 12 km pola Serra de San Mamede con saída e chegada o pobo de Castro de Escuadro, pasando polo pobo da Teixeira para máis tarde baixar novamente a Castro de Escuadro.</div><div><br></div><div>Dito percorrido estará asistido por voluntarios, ademais estará sinalizado con cinta de balizar de cor branca-azul durante todo o traxecto. Haberá puntos de avituallamento nos ptos km 6 e 9.5</div><div><br></div><div><b>Tódolos participantes na modalidade ANDAINA deberán levar permanentemente o dorsal colocado nun lugar ben visible.</b></div><div><br></div><div><b>Advertencia: esta modalidade non terá carácter competitivo.&nbsp;</b></div><div><b><br></b></div><div>A cota de inscrición dará dereito a participar na proba, seguro de accidentes, bolsa do corredor, avituallamentos, gardaroupa, duchas, comida postcarreira e participar no sorteo de cantos agasallos consiga a organización.</div><div><br></div><div>É obligatorio avisar nun control ou a un membro da organización do abandono e entrega do correspondente dorsal.</div><div><br></div><div>No poden participar menores de 14 anos na modalidade andaina a data na que se celebra o evento (21 de maio de 2017).</div><div><br></div><div>Un ano mais este evento ten un lado solidario que nos define, este ano decidimos aportar o 20 % da recaudación das inscricicions o seguinte proxecto promovido pola ASAMBLEA COMARCAL DE CRUZ VERMELLA DE MACEDA:&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Programa: Loita contra a pobreza e a exclusión</b></span></div><div>Colectivo: Persoas afectadas pola crisis socioeconómica en xeral (ingresos menores a 500€/mes) en particular.</div><div><br></div><div><b>Os participantes que tomen saída na modalidade ANDAINA deberán saber que nalgun momento do percorrido se van a atopar cos corredores, os cales lle deben facilitar o paso na medida do posible para evitar accidentes ou caídas.</b></div><div><br><div><br></div><div><br></div><div><br></div><div><br></div></div><p></p>"
+          "text": "<p><b>ANDAINA&nbsp;</b><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>9:15 h</b>&nbsp;</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Centro Social de Castro de Escuadro</b></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b><br></b></span></p><div>A proba consiste nun percorrido de aprox 12 km pola Serra de San Mamede con saída e chegada o pobo de Castro de Escuadro, pasando polo pobo da Teixeira para máis tarde baixar novamente a Castro de Escuadro.</div><div><br></div><div>Dito percorrido estará asistido por voluntarios, ademais estará sinalizado con cinta de balizar de cor branca-azul durante todo o traxecto. Haberá puntos de avituallamento nos ptos km 6 e 9.5</div><div><br></div><div><b>Tódolos participantes na modalidade ANDAINA deberán levar permanentemente o dorsal colocado nun lugar ben visible.</b></div><div><br></div><div><b>Advertencia: esta modalidade non terá carácter competitivo.&nbsp;</b></div><div><b><br></b></div><div>A cota de inscrición dará dereito a participar na proba, seguro de accidentes, bolsa do corredor, avituallamentos, gardaroupa, duchas, comida postcarreira e participar no sorteo de cantos agasallos consiga a organización.</div><div><br></div><div>É obligatorio avisar nun control ou a un membro da organización do abandono e entrega do correspondente dorsal.</div><div><br></div><div>No poden participar menores de 14 anos na modalidade andaina a data na que se celebra o evento (21 de maio de 2017).</div><div><br></div><div>Un ano mais este evento ten un lado solidario que nos define, este ano decidimos aportar o 20 % da recaudación das inscricicions o seguinte proxecto promovido pola ASAMBLEA COMARCAL DE CRUZ VERMELLA DE MACEDA:&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Programa: Loita contra a pobreza e a exclusión</b></span></div><div>Colectivo: Persoas afectadas pola crisis socioeconómica en xeral (ingresos menores a 500€/mes) en particular.</div><div><br></div><div><b>Os participantes que tomen saída na modalidade ANDAINA deberán saber que nalgun momento do percorrido se van a atopar cos corredores, os cales lle deben facilitar o paso na medida do posible para evitar accidentes ou caídas.</b></div><div><b><br></b></div><div><b>RETIRADA DE DORSAIS</b></div><div><b><br></b></div><div>Poderanse retirar o día anterior <b>sábado 20 de Maio de 18:00 a 21:00 horas no Castelo de Maceda</b>, ou o <b>mesmo día da proba ata media hora antes do inicio da proba.</b> Para a retirada de dorsais será <b>obrigatorio presentar o DNI ou pasaporte</b>, podendo retirarse por unha persoa distinta ó destinatario, facéndose esta responsable, eximindo de toda responsabilidade á organización.</div><div><br><div><br></div><div><br></div><div><br></div><div><br></div></div><p></p>"
         }
       ]
     },
@@ -927,14 +927,14 @@
             },
             ".link, .dropdown-item": {
               "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "font-family": "'Roboto', sans-serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-family": "'Lato', sans-serif"
             },
             ".link": {
-              "font-size": "0.8rem"
+              "font-size": "0.65rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.866rem"
+              "font-size": "0.704rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1324,7 +1324,7 @@
                 "showText": true,
                 "text": "",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://championchipnorte.com/evento/index/dp/9?search=\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Fai a túa inscrición</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"Patrocinadores.html\" data-toolbar=\"-mbrBtnMove\">Patrocinadores e Colaboradores</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://championchipnorte.com/evento/index/dp/9/page/2?search=&amp;\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Fai a túa inscrición</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"Patrocinadores.html\" data-toolbar=\"-mbrBtnMove\">Patrocinadores e Colaboradores</a> "
               },
               {
                 "active": false,
@@ -1352,7 +1352,7 @@
                 "showText": true,
                 "text": "Cada paso que deas o longo desta Serra ben sexa no percorrido da carreira ou da andaina, poderás disfrutar dunha beleza paisaxística sen igual que ofrece o San Mamede",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://championchipnorte.com/evento/index/dp/9?search=\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Fai a túa inscrición</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"Patrocinadores.html\" data-toolbar=\"-mbrBtnMove\">Patrocinadores e Colaboradores</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://championchipnorte.com/evento/index/dp/9/page/2?search=&amp;\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Fai a túa inscrición</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"Patrocinadores.html\" data-toolbar=\"-mbrBtnMove\">Patrocinadores e Colaboradores</a>"
               },
               {
                 "active": true,
@@ -1366,7 +1366,7 @@
                 "showText": false,
                 "text": "Cada paso que deas o longo desta Serra ben sexa no percorrido da carreira ou da andaina, poderás disfrutar dunha beleza paisaxística sen igual que ofrece o San Mamede",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://championchipnorte.com/evento/index/dp/9?search=\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Fai a túa inscrición</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"Patrocinadores.html\" data-toolbar=\"-mbrBtnMove\">Patrocinadores e Colaboradores</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://championchipnorte.com/evento/index/dp/9/page/2?search=&amp;\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Fai a túa inscrición</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"Patrocinadores.html\" data-toolbar=\"-mbrBtnMove\">Patrocinadores e Colaboradores</a>"
               },
               {
                 "active": false,
@@ -1380,7 +1380,7 @@
                 "showText": true,
                 "text": "Achégate o vindeiro domingo 21 de Maio a Castro de Escuadro<br>para tomar saída nesta nova edición do San Mamede Desafío Solidario",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://championchipnorte.com/evento/index/dp/9?search=\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Fai a túa inscrición</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"Patrocinadores.html\" data-toolbar=\"-mbrBtnMove\">Patrocinadores e Colaboradores</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://championchipnorte.com/evento/index/dp/9/page/2?search=&amp;\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Fai a túa inscrición</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"Patrocinadores.html\" data-toolbar=\"-mbrBtnMove\">Patrocinadores e Colaboradores</a> "
               }
             ],
             "fullScreen": true,
@@ -1630,14 +1630,14 @@
             },
             ".link, .dropdown-item": {
               "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "font-family": "'Roboto', sans-serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-family": "'Lato', sans-serif"
             },
             ".link": {
-              "font-size": "0.8rem"
+              "font-size": "0.65rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.866rem"
+              "font-size": "0.704rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
