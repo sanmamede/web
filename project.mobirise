@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Colaboradores.html",
     "name": "WEB D.S",
     "theme": {
       "name": "mobirise3",
@@ -1324,7 +1324,7 @@
                 "showText": true,
                 "text": "",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://championchipnorte.com/evento/index/dp/9/page/2?search=&amp;\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Fai a túa inscrición</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"Patrocinadores.html\" data-toolbar=\"-mbrBtnMove\">Patrocinadores e Colaboradores</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://championchipnorte.com/evento/index/dp/9/page/2?search=&amp;\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Fai a túa inscrición</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://carreirasfgm.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Circuito TERRA FGM</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"Patrocinadores.html\" data-toolbar=\"-mbrBtnMove\">Patrocinadores e Colaboradores</a> "
               },
               {
                 "active": false,
@@ -1352,7 +1352,7 @@
                 "showText": true,
                 "text": "Cada paso que deas o longo desta Serra ben sexa no percorrido da carreira ou da andaina, poderás disfrutar dunha beleza paisaxística sen igual que ofrece o San Mamede",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://championchipnorte.com/evento/index/dp/9/page/2?search=&amp;\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Fai a túa inscrición</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"Patrocinadores.html\" data-toolbar=\"-mbrBtnMove\">Patrocinadores e Colaboradores</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://championchipnorte.com/evento/index/dp/9/page/2?search=&amp;\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Fai a túa inscrición</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"http://carreirasfgm.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Circuito TERRA FGM</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"Patrocinadores.html\" data-toolbar=\"-mbrBtnMove\">Patrocinadores e Colaboradores</a>"
               },
               {
                 "active": true,
@@ -1366,7 +1366,7 @@
                 "showText": false,
                 "text": "Cada paso que deas o longo desta Serra ben sexa no percorrido da carreira ou da andaina, poderás disfrutar dunha beleza paisaxística sen igual que ofrece o San Mamede",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://championchipnorte.com/evento/index/dp/9/page/2?search=&amp;\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Fai a túa inscrición</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"Patrocinadores.html\" data-toolbar=\"-mbrBtnMove\">Patrocinadores e Colaboradores</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://championchipnorte.com/evento/index/dp/9/page/2?search=&amp;\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Fai a túa inscrición</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"http://carreirasfgm.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Circuito TERRA FGM</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"Patrocinadores.html\" data-toolbar=\"-mbrBtnMove\">Patrocinadores e Colaboradores</a>"
               },
               {
                 "active": false,
@@ -1380,7 +1380,7 @@
                 "showText": true,
                 "text": "Achégate o vindeiro domingo 21 de Maio a Castro de Escuadro<br>para tomar saída nesta nova edición do San Mamede Desafío Solidario",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://championchipnorte.com/evento/index/dp/9/page/2?search=&amp;\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Fai a túa inscrición</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"Patrocinadores.html\" data-toolbar=\"-mbrBtnMove\">Patrocinadores e Colaboradores</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://championchipnorte.com/evento/index/dp/9/page/2?search=&amp;\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Fai a túa inscrición</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://carreirasfgm.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Circuito TERRA FGM</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"Patrocinadores.html\" data-toolbar=\"-mbrBtnMove\">Patrocinadores e Colaboradores</a> "
               }
             ],
             "fullScreen": true,
@@ -1932,14 +1932,14 @@
             },
             ".link, .dropdown-item": {
               "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "font-family": "'Roboto', sans-serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-family": "'Lato', sans-serif"
             },
             ".link": {
-              "font-size": "0.8rem"
+              "font-size": "0.65rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.866rem"
+              "font-size": "0.704rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -2020,7 +2020,7 @@
             "timeout": 5,
             "slides": [
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/runmaniak1-2000x1126.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -2074,6 +2074,20 @@
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/semecor-2000x663.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "",
+                "showText": true,
+                "text": "",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ],
             "fullScreen": false,

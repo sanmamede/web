@@ -1173,14 +1173,14 @@ h6,
 #menu-1r .link,
 #menu-1r .dropdown-item {
   color: #ffffff;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Lato', sans-serif;
 }
 #menu-1r .link {
-  font-size: 0.8rem;
+  font-size: 0.65rem;
 }
 #menu-1r .dropdown-item,
 #menu-1r .nav-dropdown-sm .link {
-  font-size: 0.866rem;
+  font-size: 0.704rem;
 }
 #menu-1r .link:hover,
 #menu-1r .dropdown-item:hover,
