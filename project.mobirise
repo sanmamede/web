@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Colaboradores.html",
+    "currentPage": "index.html",
     "name": "WEB D.S",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 87,
+    "uniqCompNum": 92,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": ""
@@ -1324,7 +1324,7 @@
                 "showText": true,
                 "text": "",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://championchipnorte.com/evento/index/dp/9/page/2?search=&amp;\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Fai a túa inscrición</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://carreirasfgm.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Circuito TERRA FGM</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"Patrocinadores.html\" data-toolbar=\"-mbrBtnMove\">Patrocinadores e Colaboradores</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://championchipnorte.com/evento/index/dp/9/page/2?search=&amp;\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Fai a túa inscrición</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://carreirasfgm.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Circuito TERRA FGM</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"inscricións.html\" data-toolbar=\"-mbrBtnMove\">Inscricións Presenciais</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"Patrocinadores.html\" data-toolbar=\"-mbrBtnMove\">Patrocinadores e Colaboradores</a> "
               },
               {
                 "active": false,
@@ -1352,7 +1352,7 @@
                 "showText": true,
                 "text": "Cada paso que deas o longo desta Serra ben sexa no percorrido da carreira ou da andaina, poderás disfrutar dunha beleza paisaxística sen igual que ofrece o San Mamede",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://championchipnorte.com/evento/index/dp/9/page/2?search=&amp;\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Fai a túa inscrición</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"http://carreirasfgm.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Circuito TERRA FGM</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"Patrocinadores.html\" data-toolbar=\"-mbrBtnMove\">Patrocinadores e Colaboradores</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://championchipnorte.com/evento/index/dp/9/page/2?search=&amp;\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Fai a túa inscrición</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"http://carreirasfgm.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Circuito TERRA FGM</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"inscricións.html\" data-toolbar=\"-mbrBtnMove\">Inscricións Presenciais</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"Patrocinadores.html\" data-toolbar=\"-mbrBtnMove\">Patrocinadores e Colaboradores</a>"
               },
               {
                 "active": true,
@@ -1366,7 +1366,7 @@
                 "showText": false,
                 "text": "Cada paso que deas o longo desta Serra ben sexa no percorrido da carreira ou da andaina, poderás disfrutar dunha beleza paisaxística sen igual que ofrece o San Mamede",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://championchipnorte.com/evento/index/dp/9/page/2?search=&amp;\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Fai a túa inscrición</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"http://carreirasfgm.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Circuito TERRA FGM</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"Patrocinadores.html\" data-toolbar=\"-mbrBtnMove\">Patrocinadores e Colaboradores</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://championchipnorte.com/evento/index/dp/9/page/2?search=&amp;\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Fai a túa inscrición</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"http://carreirasfgm.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Circuito TERRA FGM</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"inscricións.html\" data-toolbar=\"-mbrBtnMove\">Inscricións Presenciais</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"Patrocinadores.html\" data-toolbar=\"-mbrBtnMove\">Patrocinadores e Colaboradores</a>"
               },
               {
                 "active": false,
@@ -1380,7 +1380,7 @@
                 "showText": true,
                 "text": "Achégate o vindeiro domingo 21 de Maio a Castro de Escuadro<br>para tomar saída nesta nova edición do San Mamede Desafío Solidario",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://championchipnorte.com/evento/index/dp/9/page/2?search=&amp;\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Fai a túa inscrición</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://carreirasfgm.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Circuito TERRA FGM</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"Patrocinadores.html\" data-toolbar=\"-mbrBtnMove\">Patrocinadores e Colaboradores</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://championchipnorte.com/evento/index/dp/9/page/2?search=&amp;\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Fai a túa inscrición</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://carreirasfgm.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Circuito TERRA FGM</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"inscricións.html\" data-toolbar=\"-mbrBtnMove\">Inscricións Presenciais</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"Patrocinadores.html\" data-toolbar=\"-mbrBtnMove\">Patrocinadores e Colaboradores</a> "
               }
             ],
             "fullScreen": true,
@@ -2442,6 +2442,152 @@
           },
           "_anchor": "slider-2e",
           "articleLayout": false
+        }
+      ]
+    },
+    "inscricións.html": {
+      "settings": {
+        "title": "Inscricións",
+        "meta_descr": "Tramite de inscricións"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-family": "'Lato', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.65rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.704rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-2f",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "0.65",
+            "fontName": {
+              "name": "Lato",
+              "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "css": "'Lato', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-bolsa-128x128.png",
+              "height": 128,
+              "alt": "",
+              "link": "#bottom",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">San Mamede Desafío Solidario</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Inicio</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Fin solidario.html\">O Fin solidario</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"O Proxecto.html\" aria-expanded=\"false\">O Proxecto</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"A Carreira.html\">A Carreira por montaña</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"A Andaina.html\">A Andaina</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"O Regulamento.html\" aria-expanded=\"false\">O Regulamento</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Regulamento FGM.html\">Regulamento FGM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Perfís de Elevación.html\">Perfís de elevación</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Percorridos.html\">Percorridos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Patrocinadores.html\">Patrocinadores</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Colaboradores.html\">Colaboradores</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Galería de Fotos.html\">Galería de Fotos</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contacto.html\" aria-expanded=\"false\">Contacto</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Tracks.html\">Tracks</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2h",
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": "1",
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "&nbsp;INSCRICIÓNS PRESENCIAIS",
+          "meta": "&nbsp;VII San Mamede Desafío Solidario&nbsp;"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2i",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2j",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "Poderanse realizar dende as 00:00 horas do dia 3 de abril de 2017 ata as 23:59 do día 17 de maio de 2017. Non se realizarán inscricións o mesmo día da proba nin se admitirán inscricións posteriores ao remate do prazo de inscricións. As inscricións realizaranse:<div><b style=\"font-size: 1.07rem; line-height: 1.5;\"><br></b></div><div><b style=\"font-size: 1.07rem; line-height: 1.5;\">- Presencial:</b><br></div><div>Cubrindo un formulario e facendo o pago o contado en calquera das direccións que se sinalan a continuación:</div><div><br></div><div><b>Tenda RUNMANIAK  de Ourense</b></div><div>Direccion: avenida Buenos Aires 17 (parque das mercedes), Ourense</div><div>Tf: 988613503</div><div><br></div><div><b>Concello de Maceda</b></div><div>Direccion: rua toural 2, 32700 Maceda</div><div>Tf: 988463001</div><div>No caso de que queira desistir da inscrición poderá facelo ata 8 días antes da proba, será devolto o 50% do valor da inscrición.</div><div>Os atletas poderán incribirse a título individual ou representando a clubs</div><div><br></div><div><b>PREZOS:</b></div><div>O importe da inscrición para as diferentes modalidades (ANDAINA e CARREIRA) será o seguinte:</div><div><b>4 ao 30 abril 2017 </b>(para os pagos das cuotas de inscrición realizados entre ámbalas datas)</div><div>10 € para a modalidade ANDAINA</div><div>13 € para ós participantes FEDERADOS na FEDERACIÓN GALEGA DE MONTAÑA na modalidade CARREIRA DE MONTAÑA</div><div>17 € para ós participantes NON FEDERADOS</div><div><b>1 ao 17 maio 2017</b> (para os pagos das cuotas de inscrición realizados entre ámbalas datas)</div><div>10 € para a modalidade ANDAINA</div><div>16 € para ós participantes FEDERADOS na FEDERACIÓN GALEGA DE MONTAÑA namodalidade CARREIRA DE MONTAÑA</div><div>20 € para ós participantes NON FEDERADOS</div>"
         }
       ]
     }
